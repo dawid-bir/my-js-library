@@ -1,6 +1,6 @@
 {
   "name": "@if24b243/shuffle-array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library that takes an array as input and returns a new array that is shuffled.",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/if24b243/shuffle-array.git"
+    "url": "git+https://github.com/dawid-bir/my-js-library.git"
   },
   "keywords": [
     "array",
@@ -23,9 +23,9 @@
   "author": "your name <your-email@email.com> (https://yourwebsite.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/if24b243/shuffle-array/issues"
+    "url": "https://github.com/dawid-bir/my-js-library/issues"
   },
-  "homepage": "https://github.com/if24b243/shuffle-array#readme",
+  "homepage": "https://github.com/dawid-bir/my-js-library#readme",
   "devDependencies": {
     "jest": "^29.7.0",
     "microbundle": "^0.15.1"
